@@ -1,0 +1,113 @@
+Microsoft
+
+-----------------------
+(Ideal Training Model)
+h6 
+Trainsize = 500
+testsize =  500
+epochs=3000 
+batch_size=14
+------------------------------------
+
+-----------------------------------
+Train Size:1000
+Test Size:500
+-----------------------------------
+h16 
+Trainsize = 500
+testsize =  150
+epochs=3000 
+batch_size=14
+------------------------------------
+h17
+Trainsize = 500
+testsize =  150
+epochs=3000 
+batch_size=14
+------------------------------------
+h18
+Trainsize = 500
+testsize =  150
+epochs=1500 
+batch_size=14
+epochs=300 
+batch_size=14
+------------------------------------
+h20
+Trainsize = 500
+testsize =  150
+epochs=1500 
+batch_size=14
+epochs=300 
+batch_size=14
+------------------------------------
+h20
+Trainsize = 500
+testsize =  500
+epochs=1500 
+batch_size=14
+epochs=300 
+batch_size=14
+------------------------------------
+Trainsize = 1
+testsize =  500
+
+
+
+Microsoft2015-2017
+------------------------------------
+h21
+Trainsize = 500
+testsize =  500
+epochs=1500 
+batch_size=14
+epochs=300 
+batch_size=14
+------------------------------------
+h22
+Trainsize = 600
+testsize =  100
+epochs=1500 
+batch_size=7
+epochs=300 
+batch_size=7
+------------------------------------
+h23
+Trainsize = 500
+testsize =  500
+epochs=1500 
+batch_size=14
+epochs=300 
+batch_size=14
+------------------------------------
+h24
+Trainsize = 100
+testsize =  100
+epochs=1500 
+batch_size=14
+epochs=300 
+batch_size=14
+------------------------------------
+h25
+Trainsize = 500
+testsize =  500
+epochs=1500 
+batch_size=14
+epochs=300 
+batch_size=14
+------------------------------------
+h
+Trainsize = 500
+testsize =  500
+epochs=1500 
+batch_size=14
+epochs=300 
+batch_size=14
+------------------------------------
+h
+Trainsize = 500
+testsize =  500
+epochs=1500 
+batch_size=14
+epochs=300 
+batch_size=14
